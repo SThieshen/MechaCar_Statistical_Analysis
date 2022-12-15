@@ -52,7 +52,7 @@ Assuming our significance level is the common 0.05 percent, our p-value of 0.069
 
 Lot 1
 
-
+![alt text](resources/Test_ea_lot1.png)
 
 
 

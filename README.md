@@ -28,10 +28,12 @@ So the slope of the linear model is not considered to be zero.
 ## Summary Statitics on Suspension Coils
 
 All manufacturing lots
+
 ![alt text](resources/all_man_lots.png)
 
 By each manufacturing lot
 
+![alt text](https://github.com/SThieshen/MechaCar_Statistical_Analysis/blob/main/resources/ea_man_lots.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 The design specs are respected for all manufacturing lots in total with a global variance of 62.3 psi.

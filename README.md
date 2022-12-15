@@ -44,6 +44,7 @@ On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 
 
 ### T-Test all manufacturing lots against the population mean
 
+![alt text](resources/Test_all1.png)
 
 Assuming our significance level is the common 0.05 percent, our p-value of 0.069 is above the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we can state that the PSI across all manufacturing lots is statiscally similar to the population mean of 1498.78 psi.
 

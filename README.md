@@ -7,13 +7,14 @@ All of the statistical analysis and visualizations is written in the R programmi
 
 ## Linear Regression to Predict MPG
 
+![alt text](resources/LinearRegression1.png)
 
 
 - In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results vehicle length and ground clearance (and Intercept) provide a non-random amount of variance to the linear model of mpg.
 
 - According to the results, the multi linear model is:
 
-mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weigth + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
+mpg = 6.27 * vehicle_length + 1.25e-3 * vehicle_weight + 6.88e-2 * spoiler_angle -3.41 * AWD + 3.55 * ground_clearance - 1.04e+2
 
   Approximated to:
   

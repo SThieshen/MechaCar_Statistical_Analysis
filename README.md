@@ -59,10 +59,8 @@ Lot 1
 Here the p-value is below the significance level of 0.05 percent, so we can reject the null hypothesis and conclude that the PSI across the Lot 1 is statistically different from the population mean.
 
 Lot 2 and Lot 3
-
-
-
-
+![alt text](https://github.com/SThieshen/MechaCar_Statistical_Analysis/blob/main/resources/Test_ea_lot_2.png)
+![alt text](https://github.com/SThieshen/MechaCar_Statistical_Analysis/blob/main/resources/Test_ea_lot_3.png)
 
 Here both p-values are above the significance level, so we can conclude that the PSI for Lot2 and Lot3 are statistically similar to the population mean.
 

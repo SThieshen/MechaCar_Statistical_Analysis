@@ -7,6 +7,7 @@ All of the statistical analysis and visualizations is written in the R programmi
 
 ## Linear Regression to Predict MPG
 
+![alt text](resources/LinearRegression1.png)
 
 
 - In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results vehicle length and ground clearance (and Intercept) provide a non-random amount of variance to the linear model of mpg.

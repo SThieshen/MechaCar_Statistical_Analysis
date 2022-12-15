@@ -28,7 +28,7 @@ So the slope of the linear model is not considered to be zero.
 ## Summary Statitics on Suspension Coils
 
 All manufacturing lots
-
+![alt text](resources/all_man_lots.png)
 
 By each manufacturing lot
 
